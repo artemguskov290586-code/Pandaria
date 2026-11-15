@@ -1,0 +1,11 @@
+*.ini
+.vscode*/
+/out/build
+/.vs
+build/
+.DS_Store
+.idea/
+/bin-clang
+/bin
+bin/
+obj/
